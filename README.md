@@ -2,12 +2,10 @@
 Get started with Flask
 
 Flask
-
-*http://flask.pocoo.org/docs/0.12/quickstart/
+* http://flask.pocoo.org/docs/0.12/quickstart/
 
 DB
-
-*http://flask-sqlalchemy.pocoo.org/2.1/quickstart/
+* http://flask-sqlalchemy.pocoo.org/2.1/quickstart/
 
 HTTPBasicAuth
 
@@ -20,3 +18,6 @@ Full app structure example
 
 https://flask-admin.readthedocs.io/en/latest/
 https://pythonhosted.org/Flask-Security/
+
+Debugbar
+* https://flask-debugtoolbar.readthedocs.io/en/latest/
