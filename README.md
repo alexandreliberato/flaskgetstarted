@@ -17,3 +17,6 @@ Full app structure example
 
 * https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications
 * https://damyanon.net/flask-series-structure/
+
+https://flask-admin.readthedocs.io/en/latest/
+https://pythonhosted.org/Flask-Security/
