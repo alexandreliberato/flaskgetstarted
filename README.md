@@ -9,7 +9,7 @@ DB
 
 HTTPBasicAuth
 
-*https://flask-httpauth.readthedocs.io/en/latest/
+* https://flask-httpauth.readthedocs.io/en/latest/
 
 Full app structure example
 
